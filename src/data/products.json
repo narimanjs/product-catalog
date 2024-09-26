@@ -4,7 +4,7 @@
     "name": "Running Shoes",
     "description": "High-quality running shoes for optimal performance and comfort.",
     "price": 99.99,
-    "image": "assets/images/running-shoes.jpg"
+    "image": "/assets/images/running-shoes.jpg"
   },
   {
     "id": 2,

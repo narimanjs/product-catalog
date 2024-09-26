@@ -20,10 +20,10 @@ const ProductCard: React.FC<ProductCardProps> = ({ product }) => {
   return (
     <div
       onClick={handleClick}
-      className='bg-white shadow-md rounded-lg overflow-hidden cursor-pointer hover:shadow-lg transition-shadow duration-300 w-80' // Увеличили ширину до w-80 (320px)
+      className='bg-white shadow-md rounded-lg overflow-hidden cursor-pointer hover:shadow-lg transition-shadow duration-300 w-80'
     >
       <img
-        src={product.image}
+        src={`${process.env.PUBLIC_URL}/${product.image}`}
         alt={product.name}
         className='w-full h-64 object-cover'
       />

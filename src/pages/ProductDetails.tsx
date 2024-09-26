@@ -23,7 +23,7 @@ const ProductDetails = () => {
       <div className='bg-white shadow-md rounded-lg overflow-hidden cursor-pointer hover:shadow-lg transition-shadow duration-300 w-80'>
         {" "}
         <img
-          src={product.image}
+          src={`${process.env.PUBLIC_URL}/${product.image}`}
           alt={product.name}
           className='w-full h-80 object-cover'
         />
