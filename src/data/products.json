@@ -4,55 +4,55 @@
     "name": "Running Shoes",
     "description": "High-quality running shoes for optimal performance and comfort.",
     "price": 99.99,
-    "image": "/assets/images/running-shoes.jpg"
+    "image": "assets/images/running-shoes.jpg"
   },
   {
     "id": 2,
     "name": "Fitness Tracker",
     "description": "Track your fitness activities with this stylish and accurate fitness tracker.",
     "price": 59.99,
-    "image": "/assets/images/fitness-tracker.jpg"
+    "image": "assets/images/fitness-tracker.jpg"
   },
   {
     "id": 3,
     "name": "Yoga Mat",
     "description": "Non-slip yoga mat, perfect for yoga and pilates exercises.",
     "price": 44.99,
-    "image": "/assets/images/yoga-mat.jpg"
+    "image": "assets/images/yoga-mat.jpg"
   },
   {
     "id": 5,
     "name": "Running Shoes",
     "description": "High-quality running shoes for optimal performance and comfort.",
     "price": 89.99,
-    "image": "/assets/images/running-shoes.jpg"
+    "image": "assets/images/running-shoes.jpg"
   },
   {
     "id": 6,
     "name": "Fitness Tracker",
     "description": "Track your fitness activities with this stylish and accurate fitness tracker.",
     "price": 109.99,
-    "image": "/assets/images/fitness-tracker.jpg"
+    "image": "assets/images/fitness-tracker.jpg"
   },
   {
     "id": 7,
     "name": "Yoga Mat",
     "description": "Non-slip yoga mat, perfect for yoga and pilates exercises.",
     "price": 34.99,
-    "image": "/assets/images/yoga-mat.jpg"
+    "image": "assets/images/yoga-mat.jpg"
   },
   {
     "id": 8,
     "name": "Fitness Tracker",
     "description": "Track your fitness activities with this stylish and accurate fitness tracker.",
     "price": 19.99,
-    "image": "/assets/images/fitness-tracker.jpg"
+    "image": "assets/images/fitness-tracker.jpg"
   },
   {
     "id": 9,
     "name": "Yoga Mat",
     "description": "Non-slip yoga mat, perfect for yoga and pilates exercises.",
     "price": 14.99,
-    "image": "/assets/images/yoga-mat.jpg"
+    "image": "assets/images/yoga-mat.jpg"
   }
 ]
