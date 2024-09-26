@@ -5,7 +5,7 @@ import ProductDetails from "./pages/ProductDetails";
 
 const App = () => {
   return (
-    <Router>
+    <Router basename='/product-catalog'>
       <Routes>
         <Route
           path='/'
