@@ -16,7 +16,7 @@ const PriceSortButton: React.FC<PriceSortButtonProps> = ({ onSort }) => {
   return (
     <button
       onClick={handleSort}
-      className='flex items-center bg-blue-500 text-white px-4 py-2 rounded-lg hover:bg-blue-600 transition duration-300'
+      className='mt-6 flex items-center bg-blue-500 text-white px-4 py-2 rounded-lg hover:bg-blue-600 transition duration-300'
     >
       <span className='mr-2'>Сортировка по цене</span>
       {sortDirection === "asc" ? (
