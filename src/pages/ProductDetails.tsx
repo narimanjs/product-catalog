@@ -13,15 +13,15 @@ const ProductDetails = () => {
   }
 
   return (
-    <div className='container mx-auto p-4'>
+    <div className='container mx-auto p-4 mt-16'>
       <button
         onClick={() => navigate("/")}
         className='mb-4 bg-blue-500 text-white px-4 py-2 rounded-lg'
       >
         Вернуться к списку
       </button>
-      <div className='bg-white shadow-md rounded-lg overflow-hidden cursor-pointer hover:shadow-lg transition-shadow duration-300 w-80'>
-        {" "}
+
+      <div className='bg-white shadow-md rounded-lg overflow-hidden hover:shadow-lg transition-shadow duration-300 w-80'>
         <img
           src={`${process.env.PUBLIC_URL}/${product.image}`}
           alt={product.name}
