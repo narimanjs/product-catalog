@@ -16,7 +16,7 @@ const ProductDetails = () => {
     <div className='container mx-auto p-4 mt-16'>
       <button
         onClick={() => navigate("/")}
-        className='mb-4 bg-blue-500 text-white px-4 py-2 rounded-lg'
+        className='mt-6 mb-4 bg-blue-500 text-white px-4 py-2 rounded-lg'
       >
         Вернуться к списку
       </button>
